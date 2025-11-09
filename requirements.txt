@@ -1,0 +1,2 @@
+Mình chọn python-telegram-bot==20.3 vì mã của bạn dùng Application.builder() và thao tác polling; phiên bản này tương thích tốt với pattern đó.
+Nếu bạn dùng thêm thư viện khác (ví dụ aiohttp, uvloop, requests, pymongo...), hãy thêm tên thư viện vào file này.
